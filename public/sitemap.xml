@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.invalid/</loc></url>
+  <url><loc>https://example.invalid/tests</loc></url>
+  <url><loc>https://example.invalid/reports</loc></url>
+  <url><loc>https://example.invalid/tests/complete-blood-count</loc></url>
+  <url><loc>https://example.invalid/tests/fasting-blood-glucose</loc></url>
+  <url><loc>https://example.invalid/tests/hba1c</loc></url>
+  <url><loc>https://example.invalid/tests/lipid-profile</loc></url>
+  <url><loc>https://example.invalid/tests/thyroid-profile</loc></url>
+  <url><loc>https://example.invalid/tests/liver-function-test</loc></url>
+  <url><loc>https://example.invalid/tests/kidney-function-test</loc></url>
+  <url><loc>https://example.invalid/tests/vitamin-b12</loc></url>
+  <url><loc>https://example.invalid/tests/vitamin-d</loc></url>
+  <url><loc>https://example.invalid/tests/urine-routine-examination</loc></url>
+  <url><loc>https://example.invalid/tests/hormone-panel-inquiry</loc></url>
+  <url><loc>https://example.invalid/tests/microbiology-test-inquiry</loc></url>
+  <url><loc>https://example.invalid/packages/basic-health-checkup</loc></url>
+  <url><loc>https://example.invalid/packages/comprehensive-health-checkup</loc></url>
+  <url><loc>https://example.invalid/packages/senior-health-checkup</loc></url>
+  <url><loc>https://example.invalid/packages/custom-test-package</loc></url>
+</urlset>
